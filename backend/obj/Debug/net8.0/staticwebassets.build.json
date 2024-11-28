@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+cTu+6aiGs1x3PxdTR/LkJYR2HgvpdB0UwqQW2OFoiU=",
+  "Source": "KubeBookStore",
+  "BasePath": "_content/KubeBookStore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
